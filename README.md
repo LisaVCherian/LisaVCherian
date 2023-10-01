@@ -19,7 +19,7 @@
 
 ### About Me
 - :woman_technologist: I'm a Computer Science and Engineering Student
-- 📚 I’m doing my B.Tech from Model engineering college,Thrikakkara
+- 📚 I am pursuing my B.Tech degree at [Govt Model Engineering College, Thrikakkara](https://www.mec.ac.in/)
 - 👻 I love web development and UI designing
 - ⚡ Fun fact: My handwriting is very neat hehe ;)
 

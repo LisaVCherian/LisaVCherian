@@ -7,21 +7,18 @@
   <a href="https://www.linkedin.com/in/lisa-v-cherian/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCYxNDsXX1XLQNuaAdyHaP0Q">
+  <a href="https://www.youtube.com/@nocodb">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://open.spotify.com/user/14ptdiqc63emp5ddhjhl00zhr">
-    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  <a href="https://rebrand.ly/nocodb-discord">
+    <img src="https://img.shields.io/badge/Discord-darkviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
 ---
 
 ### About Me
-- :woman_technologist: I'm a Computer Science and Engineering Student
-- 📚 I am pursuing my B.Tech degree at [Govt Model Engineering College, Thrikakkara](https://www.mec.ac.in/)
-- 👻 I love web development and UI designing
-- ⚡ Fun fact: My handwriting is very neat hehe ;)
+Hi I’m Lisa, community advocate at NocoDB, where I help users get the most out of our open-source database platform. I love connecting with people, answering questions, and making tech more accessible. When I’m not geeking out over databases, you can find me exploring cool new tools and brainstorming ways to make our community even better. Let’s build something awesome together!
 
 ---
 

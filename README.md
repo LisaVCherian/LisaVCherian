@@ -46,7 +46,5 @@ Hi I’m Lisa, community advocate at NocoDB, where I help users get the most out
 ### My Stats
 <div>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LisaVCherian&theme=dark)](https://git.io/streak-stats)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaVCherian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>

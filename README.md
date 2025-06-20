@@ -18,7 +18,7 @@
 ---
 
 ### About Me
-Hi I’m Lisa, community advocate at NocoDB, where I help users get the most out of our open-source database platform. I love connecting with people, answering questions, and making tech more accessible. When I’m not geeking out over databases, you can find me exploring cool new tools and brainstorming ways to make our community even better. Let’s build something awesome together!
+Hi, I’m Lisa! I love connecting with people, answering questions, and making tech more accessible. When I’m not geeking out over databases, you can find me exploring cool new tools and brainstorming ways to make our community even better. Let’s build something awesome together!
 
 ---
 

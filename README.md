@@ -18,7 +18,7 @@
 ---
 
 ### About Me
-Hi, I’m Lisa! I love connecting with people, answering questions, and making tech more accessible. When I’m not geeking out over databases, you can find me exploring cool new tools and brainstorming ways to make our community even better. Let’s build something awesome together!
+Hi, I’m Lisa. As of 2025, I have retired from coding. My current life? Working at the Founder's Office at Prar, tackling problems every day! I love building strategies, developing cool products, and connecting with people. Still a techy by heart! Let’s build something awesome together 🚀
 
 ---
 
